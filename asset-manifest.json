@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/forkify/static/css/main.86f049f7.css",
+    "main.js": "/forkify/static/js/main.c1379c87.js",
+    "static/media/logo.png": "/forkify/static/media/logo.d590dfcfedd5a66b3ba7.png",
+    "static/media/icons.svg": "/forkify/static/media/icons.ed10c2e09a0636d6cd722a9a5bad4b41.svg",
+    "index.html": "/forkify/index.html",
+    "main.86f049f7.css.map": "/forkify/static/css/main.86f049f7.css.map",
+    "main.c1379c87.js.map": "/forkify/static/js/main.c1379c87.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.86f049f7.css",
+    "static/js/main.c1379c87.js"
+  ]
+}
